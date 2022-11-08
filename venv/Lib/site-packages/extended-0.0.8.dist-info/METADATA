@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: extended
+Version: 0.0.8
+Summary: python implementations of a number of wolfram language functions
+Home-page: https://github.com/NGeorgescu/wolframtools
+Author: NGeorgescu
+Author-email: nsgeorgescu@gmail.com
+License: see LICENSE.txt
+Keywords: wolfram mathematica python ports wolframalpha
+Platform: UNKNOWN
+
+=============
+Extended
+=============
+
+This package contains a number of functions that are python implementations of wolfram language functions
+
+Contents
+-------------
+
+
+Changelog
+-------------
+
+0.0.0 The start
+
+
+
+
+
